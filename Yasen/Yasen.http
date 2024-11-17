@@ -1,0 +1,6 @@
+@Yasen_HostAddress = http://localhost:5229
+
+GET {{Yasen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
